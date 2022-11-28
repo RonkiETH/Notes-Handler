@@ -1,0 +1,31 @@
+html{
+  height: 100%;
+}
+
+body {
+  background: #121212;
+  display: flex !important;
+  flex-direction: column !important;
+  min-height: 100% !important;
+}
+
+.logo {
+  width: 30%;
+}
+
+.bg-black {
+  background: #090909;
+}
+
+#carouselExampleCaptions{
+  margin-top: 50px !important;
+  margin-bottom: 100px !important;
+}
+
+.card a:hover{
+  text-decoration: underline !important;
+}
+
+footer a:hover{
+  text-decoration: underline !important;
+}
