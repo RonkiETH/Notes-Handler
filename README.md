@@ -7,23 +7,20 @@ Las funciones de esta aplicación son:
 - CRUD: Create, Read, Update, Delete (Notas)
 - Permite crear un usuario, iniciar sesión y que cada usuario pueda interactuar con sus notas.
 
-### Instalación
+### Iniciar el proyecto
 
 ```sh
-git clone https://github.com/FaztTech/nodejs-notes-app
-cd nodejs-notes-app
-npm i
 npm run dev # Iniciar la aplicación en modo developer
 npm start # Iniciar la aplicación en modo de producción
 ```
 
-> Tienes que tener MongoDB instalado de forma local, o establecer la variable de entorno MONGODB_URI para poder conectarte a MongoDB Atlas, por ejemplo.
+> Tienes que tener MongoDB instalado de forma local, o establecer la variable de entorno MONGOATLAS para poder conectarte a MongoDB Atlas, por ejemplo.
 
 ### Variables de Entorno
 
 Esta aplicación necesita las siguientes variables de entorno
 
-- `MONGODB_URI` Este es el string de la MongoDB URI.
+- `MONGOATLAS` Este es el string de la MongoDB URI.
 - `PORT` El puerto HTTP para la aplicación
 
 ### Usuario Default
