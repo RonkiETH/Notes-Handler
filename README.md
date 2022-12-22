@@ -7,9 +7,14 @@ Las funciones de esta aplicación son:
 - CRUD: Create, Read, Update, Delete (Notas)
 - Permite crear un usuario, iniciar sesión y que cada usuario pueda interactuar con sus notas.
 
-### Iniciar el proyecto
+![App Screenshot](https://i.postimg.cc/2yypkvpg/noteshand.jpg)
+
+### Instalación
 
 ```sh
+git clone github.com/RonkiETH/Notes-Handler
+cd Notes-handler
+npm install
 npm run dev # Iniciar la aplicación en modo developer
 npm start # Iniciar la aplicación en modo de producción
 ```
