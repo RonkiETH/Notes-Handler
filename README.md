@@ -1,4 +1,4 @@
-# Notes Handler
+# Notes Handler (Proyecto Final Bootcamp Full Stack Engineer de Educación IT)
 
 Esta es una aplicación web básica, la cual te permite manejar notas simples, la aplicación fue creada con Handlebars (HBS) como motor de plantillas, y con tecnologías de JavaScript, como Node.js, MongoDB, y distintas librerías.
 
